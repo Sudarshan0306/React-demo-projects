@@ -26,11 +26,11 @@ function App() {
   return (
     <>
       <h1>React Practice</h1>
-      {/* <DynamicForm data={formSchema} />
+      {/* <DynamicForm data={formSchema} /> */}
       <AddressInfo />
-      <DebouncedSearch />
-      <Table />
-      <QRGenerator /> */}
+      {/* <DebouncedSearch /> */}
+      {/* <Table /> */}
+      {/* <QRGenerator /> */}
       <Form />
       {/* <RealTimeChat /> */}
       {/* <InfiniteScroll /> */}
